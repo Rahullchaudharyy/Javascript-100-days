@@ -19,7 +19,7 @@ console.log(StrinSgArr.at(0));
  
 }
 
-findLongestStringWord("I'm the person who can code and who can build something!!!");;
+findLongestStringWord("This is the example only so that we can get our output ");
 
 // Same thing with the reduce method 
   
