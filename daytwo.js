@@ -13,4 +13,4 @@ return str
 
 }
 
-GenerateHashtage("I am rahul in this class")
+GenerateHashtage("do your work")
