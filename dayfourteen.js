@@ -8,5 +8,5 @@ const FindPower = (num) =>{
   return Result;
 }
 
-console.log(FindPower(2));
+console.log(FindPower(144));
 
